@@ -1,0 +1,4 @@
+C = class C
+
+end
+
